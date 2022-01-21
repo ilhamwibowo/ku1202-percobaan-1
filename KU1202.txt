@@ -2,3 +2,5 @@ Saya sedang belajar Git.
 Saya sudah lumayan paham Git
 Teks ini adalah perubahan pada cabang1
 teks ini adalah perubahan pada cabang2s
+
+matnap jiwa
